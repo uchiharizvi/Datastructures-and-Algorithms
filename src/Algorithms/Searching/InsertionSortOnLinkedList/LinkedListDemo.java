@@ -11,7 +11,7 @@ public class LinkedListDemo {
         System.out.println("Linked List before Sorting..");
         list.print(list.head);
         list.sort(list.head);
-        System.out.println("\nLinkedList After sorting");
+        System.out.println("\nDataStructures.LinkedList After sorting");
         list.print(list.head);
 
     }
