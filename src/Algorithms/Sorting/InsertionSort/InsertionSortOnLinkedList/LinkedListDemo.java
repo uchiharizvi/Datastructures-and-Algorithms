@@ -1,4 +1,4 @@
-package Algorithms.Searching.InsertionSortOnLinkedList;
+package Algorithms.Sorting.InsertionSort.InsertionSortOnLinkedList;
 
 public class LinkedListDemo {
     public static void main(String[] args) {
