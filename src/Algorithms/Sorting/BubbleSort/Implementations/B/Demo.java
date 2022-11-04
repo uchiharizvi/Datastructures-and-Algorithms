@@ -1,4 +1,4 @@
-package Algorithms.Sorting.BubbleSort;
+package Algorithms.Sorting.BubbleSort.Implementations.B;
 
 
 import Algorithms.Sorting.PrintArray;
