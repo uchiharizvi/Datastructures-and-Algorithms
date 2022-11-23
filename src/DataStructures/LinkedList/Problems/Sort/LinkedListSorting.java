@@ -1,6 +1,5 @@
 package DataStructures.LinkedList.Problems.Sort;
 
-import datastructure.linkedlist.operations.Node;
 
 public class LinkedListSorting {
     Node head;

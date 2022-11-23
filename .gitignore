@@ -10,4 +10,6 @@
 *.iml
 /.idea
 /DSA-Examples.iml
+/out
+/DSA-Examples.iml
 

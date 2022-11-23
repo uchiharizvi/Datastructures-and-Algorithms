@@ -1,6 +1,5 @@
 package DataStructures.LinkedList.Problems.Palindrome;
 
-import sun.reflect.generics.tree.Tree;
 
 /*Given a singly linked list, determine if its a palindrome. Return 1 or 0 denoting if its a palindrome or not, respectively.
 * List 1-->2-->1 is a palindrome.
@@ -43,6 +42,5 @@ public class PalindromeList {
         }
         node = prev;
         return node;
-        Tree tree
     }
 }
