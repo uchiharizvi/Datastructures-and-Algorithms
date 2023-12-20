@@ -1,4 +1,4 @@
-package Algorithms.Sorting.BubbleSort.Recursive;
+package Algorithms.sorting.bubble.recursive.impl.examples.e001;
 
 import java.util.Arrays;
 

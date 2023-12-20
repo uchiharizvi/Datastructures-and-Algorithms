@@ -1,4 +1,4 @@
-package Algorithms.Sorting.InsertionSort.InsertionSort;
+package Algorithms.sorting.insertion.InsertionSort;
 
 public class InsertionSort {
     void sort(int arr[]) {

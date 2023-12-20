@@ -1,4 +1,4 @@
-package Algorithms.Sorting;
+package Algorithms.sorting;
 
 public class PrintArray {
     public static void print(int arr[]) {

@@ -1,7 +1,7 @@
-package Algorithms.Sorting.MergeSort;
+package Algorithms.sorting.merge;
 
 
-import Algorithms.Sorting.PrintArray;
+import Algorithms.sorting.PrintArray;
 
 public class Demo {
     public static void main(String[] args) {

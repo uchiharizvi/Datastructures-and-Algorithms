@@ -1,4 +1,4 @@
-package Algorithms.Sorting.InsertionSort.InsertionSortOnLinkedList;
+package Algorithms.sorting.insertion.InsertionSortOnLinkedList;
 
 public class LinkedList {
     Node head;

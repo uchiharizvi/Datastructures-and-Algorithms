@@ -1,7 +1,7 @@
-package Algorithms.Sorting.BubbleSort.Implementations.B;
+package Algorithms.sorting.bubble.standard.impl.examples.e003;
 
 
-import Algorithms.Sorting.PrintArray;
+import Algorithms.sorting.PrintArray;
 
 public class Demo {
     public static void main(String[] args) {

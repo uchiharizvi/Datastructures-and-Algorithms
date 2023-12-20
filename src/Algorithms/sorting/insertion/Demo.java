@@ -1,7 +1,7 @@
-package Algorithms.Sorting.InsertionSort;
+package Algorithms.sorting.insertion;
 
 
-import Algorithms.Sorting.PrintArray;
+import Algorithms.sorting.PrintArray;
 
 public class Demo {
     public static void main(String[] args) {

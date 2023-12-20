@@ -1,4 +1,5 @@
-package Algorithms.Sorting.BubbleSort.Implementations.A;
+package Algorithms.sorting.bubble.standard.impl.examples.e002;
+
 
 import java.util.Scanner;
 

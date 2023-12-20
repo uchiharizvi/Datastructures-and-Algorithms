@@ -1,4 +1,4 @@
-package Algorithms.Sorting.BubbleSort.Implementations.B;
+package Algorithms.sorting.bubble.standard.impl.examples.e003;
 
 public class BubbleSort {
     void sort(int arr[]) {
